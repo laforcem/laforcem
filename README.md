@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I'm working on my B.S. in Computer Science at the Colorado School of Mines
-- 🌐 I've been teaching myself web development in my free time
+- 🌐 I've been teaching myself web development and DevOps in my free time
 - I dabble in audio engineering 🎧 and graphic design ༼ つ ಠ_ಠ ༽つ✏️
-- 💻 Familiar languages: C++, Java, Python, HTML/CSS, SQL
+- 💻 Familiar languages: C++, Java, Python, JavaScript, HTML/CSS, SQL
