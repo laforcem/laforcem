@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 🌐 I've been teaching myself web development and DevOps in my free time
 - I dabble in audio engineering 🎧 and graphic design ༼ つ ಠ_ಠ ༽つ✏️
 - 💻 Familiar languages: C++, Java, Python, JavaScript, HTML/CSS, SQL
+
+![My top languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=laforcem&theme=tokyonight)
+
