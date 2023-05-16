@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I'm working on my B.S. in Computer Science at the Colorado School of Mines
+- 👨‍💻 I'm a software developer in the US
 - 🌐 I've been teaching myself web development and DevOps in my free time
 - I dabble in audio engineering 🎧 and graphic design ༼ つ ಠ_ಠ ༽つ✏️
 - 💻 Familiar languages: C++, Java, Python, JavaScript, HTML/CSS, SQL
