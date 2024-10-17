@@ -1,4 +1,4 @@
-### Hi there, I'm Malcolm 👋
+### Howdy, I'm Malcolm 👋🤠
 
 <!--
 **laforcem/laforcem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 I'm a software developer in the US
-- 🌐 I've been teaching myself web development and DevOps in my free time
-- I dabble in audio engineering 🎧 and graphic design ༼ つ ಠ_ಠ ༽つ✏️
-- 💻 Familiar languages: C++, Java, Python, JavaScript, HTML/CSS, SQL
+- 💼 I work professionally as a junior dev
+- ⛏️ Enjoying Minecraft server administration
+- 🤓 Fanboy of Docker, RSS, & Android
+- ⚔️ Death to algorithmic feeds
+- 🏠 Learning about homelabbing and self-hosting
